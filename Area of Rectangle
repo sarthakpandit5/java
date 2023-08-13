@@ -1,0 +1,14 @@
+class Rectangle
+{
+    public static void main(String[] args)
+  {
+        int len=6;
+        int wid=8;
+        int c;
+        c=len*wid;
+    {
+    System.out.println(c);
+    
+    }
+}
+}
